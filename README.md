@@ -32,7 +32,9 @@ Weekly journal goes here. Reflect.
 
 Met my Team for the Game Development Project! More Programming and Learning about Logic and Academic Writing
 
-Weekly journal goes here. Reflect.
+Started Implementing the basic framework for the game. Even though this week went pretty smoothly, I noticed I waste a lot of my time at home, which could 
+be detrimental during the later stages of the project. I also feel that my lack of time management will be a big obstacle once more work starts to creep up on me.
+
 
 ## Week 5
 
